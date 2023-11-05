@@ -1,5 +1,5 @@
 {
-    "name": "bitget/sdk",
+    "name": "zonbloginc/bitget-php",
     "description": "This is an api sdk about OKEx V3",
     "type": "library",
     "license": "MIT",
