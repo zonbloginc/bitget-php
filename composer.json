@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "workerman/workerman": "^3.5",
+        "workerman/workerman": ">=3.5",
         "textalk/websocket": "*",
         "ext-curl": "*",
         "ext-json": "*",
